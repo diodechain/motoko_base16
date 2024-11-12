@@ -16,7 +16,7 @@ Decoding returns a `?Blob` because the string may not be valid base16.
 ### MOPS
 
 ```
-mops install base16
+mops add base16
 ```
 
 # Testing
